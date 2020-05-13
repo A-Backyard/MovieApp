@@ -5,10 +5,6 @@ import Navigation from "./Navigation";
 import {API_URL, API_KEY_3} from "../utils/api";
 import MoviesTabs from "./MoviesTabs";
 
-// UI = fn(state, props)
-
-// App = new React.Component()
-
 class App extends React.Component {
     constructor() {
         super();
